@@ -5,35 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a9d8faa-3132-4be1-9dfd-3a138f53da2e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Employee1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Employee1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/HibernateAnnotaionMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/HibernateAnnotaionMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/HibernateJavaConfigMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/HibernateJavaConfigMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/HibernateMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/HibernateMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2XRVTvmkJbpnzWKaTxDwr37fvtO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/JavaProjects/Kerja/JavaHibernateTraining/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/renal/Downloads/Compressed/discord-intellij-3.0.0.zip&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/JavaProjects/Kerja/JavaHibernateTraining/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,19 +61,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698591891973</updated>
-      <workItem from="1698591893092" duration="1000" />
+      <workItem from="1698591893092" duration="1792000" />
+      <workItem from="1698593761758" duration="54000" />
+      <workItem from="1698593828674" duration="16000" />
+      <workItem from="1698593852196" duration="101000" />
+      <workItem from="1698593961319" duration="78000" />
+      <workItem from="1698594047868" duration="26000" />
+      <workItem from="1698594081434" duration="57000" />
+      <workItem from="1698594147752" duration="32000" />
+      <workItem from="1698594189865" duration="31000" />
+      <workItem from="1698594230056" duration="1221000" />
+      <workItem from="1698640358034" duration="2098000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

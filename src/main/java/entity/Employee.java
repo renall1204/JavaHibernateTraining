@@ -1,2 +1,4 @@
-package entity;public class Employee {
+package entity;
+
+public class Employee {
 }
